@@ -7,6 +7,7 @@ Star this repo if you find it useful ⭐
 
 <summary><strong>Git_GitHub_Beginner</strong></summary>
 
+&nbsp;
 
 | **Topic Name** | **What's Covered** |
 |--------------|----------------|
